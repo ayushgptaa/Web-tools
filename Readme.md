@@ -9,7 +9,7 @@ a<div align="center">
 
 ## Index
 
--   [Images](#Images)
+-   [Images](#images)
 -   [Illustrations](#Illustrations)
 
 <br/>
@@ -30,3 +30,11 @@ a<div align="center">
 | [**Stocksnap**](https://stocksnap.io/)        | Beautiful Free Stock Photos                     | Free 🔥 |
 | [**Kaboompics**](https://kaboompics.com/)     | FREE STOCK PHOTOGRAPHY + COLOR PALETTES         | Free 🔥 |
 | [**pixabay**](https://pixabay.com/)           | Stunning free images & royalty free stock       | Free 🔥 |
+
+## Illustrations 📸
+
+ <p > A list of websites to get high quality Illustations for your Project </p>
+
+| Images                                | Description                            | Price   |
+| ------------------------------------- | -------------------------------------- | ------- |
+| [**Control**](https://control.rocks/) | Set of 108 customizable illustrations. | Free 🔥 |
