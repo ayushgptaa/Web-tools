@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>Webtools 🔨</h1>
-<i>A list of web development tools/resources I created for myself.  </i>
+<i>A list of web development tools/resources (almost everything related to web development) I created for myself.  </i>
 
 </div>
 
