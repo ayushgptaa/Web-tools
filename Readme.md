@@ -9,9 +9,9 @@
 
 ## Index
 
-- [Images](#images)
+-   [Images](#images)
 
-- [Illustrations](#illustrations)
+-   [Illustrations](#illustrations)
 
 <br/>
 
@@ -36,11 +36,14 @@
 
  <p > A list of websites to get high quality Illustations for your Project </p>
 
-| Images                                                        | Description                                                 | Price             |
-| ------------------------------------------------------------- | ----------------------------------------------------------- | ----------------- |
-| [**Control**](https://control.rocks/)                         | Set of 108 customizable illustrations.                      | Free 🔥           |
-| [**404 Images**](https://error404.fun/)                       | Royalty free illustrations for 404 pages                    | Free 🔥 + paid 💸 |
-| [**HANDZ**](https://www.handz.design/)                        | A 3D illustration library for hands                         | Free 🔥 + paid 💸 |
-| [**Illustrationkit**](https://illustrationkit.com/)           | Free vector illustrations for Projects                      | Free 🔥 + paid💸  |
-| [**Open Doodles**](https://opendoodles.com/)                  | A Free Set of Open-Source sketchy Illustrations             | Free🔥            |
-| [**Awesome Illustrations**](https://picchustudio.webflow.io/) | Create awesome illustrations for your website & application | Paid 💸           |
+| Images                                                         | Description                                                   | Price             |
+| -------------------------------------------------------------- | ------------------------------------------------------------- | ----------------- |
+| [**Control**](https://control.rocks/)                          | Set of 108 customizable illustrations.                        | Free 🔥           |
+| [**404 Images**](https://error404.fun/)                        | Royalty free illustrations for 404 pages                      | Free 🔥 + paid 💸 |
+| [**HANDZ**](https://www.handz.design/)                         | A 3D illustration library for hands                           | Free 🔥 + paid 💸 |
+| [**Illustrationkit**](https://illustrationkit.com/)            | Free vector illustrations for Projects                        | Free 🔥 + paid💸  |
+| [**Open Doodles**](https://opendoodles.com/)                   | A Free Set of Open-Source sketchy Illustrations               | Free🔥            |
+| [**Awesome Illustrations**](https://picchustudio.webflow.io/)  | Create awesome illustrations for your website & application   | Paid 💸           |
+| [**Black Illustrations**](https://www.blackillustrations.com/) | Beautiful illustrations of Black people                       | Free 🔥 + paid💸  |
+| [**Kapusti**](https://www.kapustin.co/)                        | Here you can buy or order custom illustrations for your needs | Free 🔥 + paid💸  |
+| [**Kapusti**](https://www.kapustin.co/)                        | Here you can buy or order custom illustrations for your needs | Free 🔥 + paid💸  |
