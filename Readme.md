@@ -1,13 +1,13 @@
 <div align="center">
-    <h1>Webtools 🔨</h1>
-    <i>A  list of free web development tools/resources I created for myself. </i>
+    <h1>Webtools 🕸️🔨</h1>
+    <i>A  list of all tools/resources that you need as a developer that I created for myself. </i>
 </div>
 
 ---
 
 ## Index
 
--   [Images](#images)
+-   [Images](#Images)
 
 <br/>
 
