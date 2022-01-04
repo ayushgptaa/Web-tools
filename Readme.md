@@ -12,6 +12,8 @@
 -   [Animations](#animations)
     -   [Css](#css)
     -   [Javascript](#javascript)
+
+-   [CSSGenerators](#cssgenerators)  
 -   [Images](#images)
 
 -   [Illustrations](#illustrations)
@@ -23,6 +25,18 @@
  <p > A list of animations liberaries/websites (CSS + Javascript ). </p>
   
   ### CSS
+
+
+## CSSGenerators
+
+<p>A list of all the CSS Generators you'll ever need 💅</p>
+
+| CSS Generators                                                   | Description                                     |
+| ---------------------------------------------                    | ----------------------------------------------- |
+| [**CSS Code Generators**](http://csscodegenerators.com/)         | A one stop site for most of the CSS generators you need     |
+| [**SVG to CSS converter**](https://www.svgbackgrounds.com/tools/svg-to-css)                            | Convert Svg code to be used in CSS|
+| [**CSS photo filters**](https://baseline.is/tools/css-photo-filters)                          | 36 beautiful CSS photo filters  |
+| [**CSS stripes generator**](https://stripesgenerator.com/)                          | Generate elegent CSS Stripes   |
 
 ## Images
 
