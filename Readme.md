@@ -33,7 +33,7 @@
 
 | CSS Generators                                                                     | Description                                     |
 | -----------------------------------------------------------------------------      | ----------------------------------------------- |
-| [**CSS Code Generators**](http://csscodegenerators.com/)                           | A one stop site for most of the CSS generators you need     |
+| [**CSS Code Generators**](http://csscodegenerators.com/)                           | Most of the CSS generators you need     |
 | [**SVG to CSS converter**](https://www.svgbackgrounds.com/tools/svg-to-css)        | Convert Svg code to be used in CSS|
 | [**CSS photo filters**](https://baseline.is/tools/css-photo-filters)               | 36 beautiful CSS photo filters  |
 | [**CSS stripes generator**](https://stripesgenerator.com/)                         | Generate elegent CSS Stripes   |
