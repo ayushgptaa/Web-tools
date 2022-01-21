@@ -27,6 +27,12 @@
 
 ### CSS
 
+ <p > A list of CSS animations liberaries/websites  </p>
+
+| CSS Animations                             | Description                            |
+| ------------------------------------------ | -------------------------------------- |
+| [**Animtate.css**](https://animate.style/) | ready-to-use, cross-browser animations |
+
 ## CSSGenerators
 
 <p>A list of all the CSS Generators you'll ever need 💅</p>
