@@ -29,13 +29,14 @@
 
  <p > A list of CSS animations liberaries/websites  </p>
 
-| CSS Animations                                      | Description                                    |
-| --------------------------------------------------- | ---------------------------------------------- |
-| [**Animtate.css**](https://animate.style/)          | Ready-to-use, cross-browser animations         |
-| [**Keyframes.app**](https://keyframes.app/animate/) | Generate amazing CSS animations                |
-| [**Animista**](https://animista.net)                | Collection of pre-made editable CSS animations |
-| [**Stylie**](https://jeremyckahn.github.io/stylie/) | A graphical CSS3 animation tool                |
-| [**Stylie**](https://jeremyckahn.github.io/stylie/) | A graphical CSS3 animation tool                |
+| CSS Animations                                        | Description                                                    |
+| ----------------------------------------------------- | -------------------------------------------------------------- |
+| [**Animtate.css**](https://animate.style/)            | Ready-to-use, cross-browser animations                         |
+| [**Keyframes.app**](https://keyframes.app/animate/)   | Generate amazing CSS animations                                |
+| [**Animista**](https://animista.net)                  | Collection of pre-made editable CSS animations                 |
+| [**Stylie**](https://jeremyckahn.github.io/stylie/)   | A graphical CSS3 animation tool                                |
+| [**Stylie**](https://jeremyckahn.github.io/stylie/)   | A graphical CSS3 animation tool                                |
+| [**Rocket**](https://minimamente.com/example/rocket/) | creates an animation when an item is moved to another element. |
 
 ## CSSGenerators
 
