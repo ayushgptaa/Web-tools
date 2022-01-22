@@ -35,12 +35,12 @@
 | [**Keyframes.app**](https://keyframes.app/animate/)   | Generate amazing CSS animations                                |
 | [**Animista**](https://animista.net)                  | Collection of pre-made editable CSS animations                 |
 | [**Stylie**](https://jeremyckahn.github.io/stylie/)   | A graphical CSS3 animation tool                                |
-| [**Stylie**](https://jeremyckahn.github.io/stylie/)   | A graphical CSS3 animation tool                                |
-| [**Rocket**](https://minimamente.com/example/rocket/) | creates an animation when an item is moved to another element. |
+| [**Rocket**](https://minimamente.com/example/rocket/) | Creates an animation when an item is moved to another element. |
+| [**OBNOXIOUS.CSS**](https://tholman.com/obnoxious)    | Class based CSS Animations                                     |
 
-## CSSGenerators
+## Generators
 
-<p>A list of all the CSS Generators you'll ever need 💅</p>
+<p>A list of all the Generators you'll ever need 💅</p>
 
 | CSS Generators                                                                                     | Description                                      |
 | -------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
@@ -54,6 +54,7 @@
 | [**Neumorphism**](https://neumorphism.io)                                                          | Generate Soft-UI CSS code                        |
 | [**Smooth shadow**](https://shadows.brumm.af)                                                      | Generate CSS for shadows                         |
 | [**Animated Background Generator**](https://wweb.dev/resources/animated-css-background-generator/) | Generate HTML & CSS for beautiful backgrounds    |
+| [**Hover.css**](https://ianlunn.github.io/Hover/)                                                  | A collection of CSS3 powered hover effects       |
 
 ## Images
 
