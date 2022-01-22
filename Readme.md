@@ -29,25 +29,30 @@
 
  <p > A list of CSS animations liberaries/websites  </p>
 
-| CSS Animations                             | Description                            |
-| ------------------------------------------ | -------------------------------------- |
-| [**Animtate.css**](https://animate.style/) | ready-to-use, cross-browser animations |
+| CSS Animations                                      | Description                                    |
+| --------------------------------------------------- | ---------------------------------------------- |
+| [**Animtate.css**](https://animate.style/)          | Ready-to-use, cross-browser animations         |
+| [**Keyframes.app**](https://keyframes.app/animate/) | Generate amazing CSS animations                |
+| [**Animista**](https://animista.net)                | Collection of pre-made editable CSS animations |
+| [**Stylie**](https://jeremyckahn.github.io/stylie/) | A graphical CSS3 animation tool                |
+| [**Stylie**](https://jeremyckahn.github.io/stylie/) | A graphical CSS3 animation tool                |
 
 ## CSSGenerators
 
 <p>A list of all the CSS Generators you'll ever need 💅</p>
 
-| CSS Generators                                                              | Description                                      |
-| --------------------------------------------------------------------------- | ------------------------------------------------ |
-| [**CSS Code Generators**](http://csscodegenerators.com/)                    | Most of the CSS generators you need              |
-| [**SVG to CSS converter**](https://www.svgbackgrounds.com/tools/svg-to-css) | Convert Svg code to be used in CSS               |
-| [**CSS photo filters**](https://baseline.is/tools/css-photo-filters)        | 36 beautiful CSS photo filters                   |
-| [**CSS stripes generator**](https://stripesgenerator.com/)                  | Generate elegent CSS Stripes                     |
-| [**CSS Layout**](https://csslayout.io)                                      | Popular layouts and patterns made with CSS       |
-| [**Pattern.css**](https://bansal.io/pattern-css)                            | CSS only library to generate beautiful patterns. |
-| [**CSS Buttons**](https://cssbuttons.app)                                   | Custom CSS Buttons for every use                 |
-| [**Neumorphism**](https://neumorphism.io)                                   | Generate Soft-UI CSS code                        |
-| [**Smooth shadow**](https://shadows.brumm.af)                               | Generate CSS for shadows                         |
+| CSS Generators                                                                                     | Description                                      |
+| -------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
+| [**CSS Code Generators**](http://csscodegenerators.com/)                                           | Most of the CSS generators you need              |
+| [**SVG to CSS converter**](https://www.svgbackgrounds.com/tools/svg-to-css)                        | Convert Svg code to be used in CSS               |
+| [**CSS photo filters**](https://baseline.is/tools/css-photo-filters)                               | 36 beautiful CSS photo filters                   |
+| [**CSS stripes generator**](https://stripesgenerator.com/)                                         | Generate elegent CSS Stripes                     |
+| [**CSS Layout**](https://csslayout.io)                                                             | Popular layouts and patterns made with CSS       |
+| [**Pattern.css**](https://bansal.io/pattern-css)                                                   | CSS only library to generate beautiful patterns. |
+| [**CSS Buttons**](https://cssbuttons.app)                                                          | Custom CSS Buttons for every use                 |
+| [**Neumorphism**](https://neumorphism.io)                                                          | Generate Soft-UI CSS code                        |
+| [**Smooth shadow**](https://shadows.brumm.af)                                                      | Generate CSS for shadows                         |
+| [**Animated Background Generator**](https://wweb.dev/resources/animated-css-background-generator/) | Generate HTML & CSS for beautiful backgrounds    |
 
 ## Images
 
